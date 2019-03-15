@@ -1,0 +1,102 @@
+table td {
+  padding-right: 5px;
+}
+
+canvas {
+  margin-top: 50px !important;
+  margin: auto;
+}
+
+.logo {
+  margin-left: 10px;
+  color: #fff;
+  display: inline-block;
+  font-size: 2.1rem;
+}
+
+.tabs .indicator{
+  background-color: #cddc39 !important;
+}
+
+.tabs li a {
+  color: #cddc39 !important;
+}
+
+.tabs li .active {
+  background-color: rgba(205, 220, 57, 0.1) !important;
+}
+
+nav a {
+  color: #cddc39 !important;
+}
+
+.menu {
+  position: fixed;
+  right: 0;
+  top: 0;
+  background-color: #424242;
+  z-index: 1000;
+  display: none;
+  height: 100vh;
+}
+
+.menuFont {
+  margin: 15px;
+  font-size: 2.1rem;
+  color: #cddc39;
+}
+
+.rowMenu {
+  height: 10vh;
+  width: 100%;
+  border-bottom: 1px solid #212121;
+}
+
+.rowMenu div {
+  height: 100%;
+}
+
+.rightMenu {
+  position: absolute;
+  right: 0;
+}
+.menuContent{
+  display: none;
+  margin: 15px;
+  height: 80vh !important;
+  color:#cddc39;
+}
+
+.divTable{
+  overflow: auto;
+  height: 80vh !important;
+  color:#cddc39;
+}
+.divTable table{
+  color:#cddc39;
+}
+
+.extraMargin{
+  margin-top:10vh;
+  margin-bottom: 10vh;
+}
+
+.btn{
+  background-color: #cddc39;
+  color: #212121;
+}
+
+.lesserMargin{
+  margin-top:3vh !important;
+  margin-bottom: 3vh !important;
+}
+
+input{
+  width: 60% !important;
+  color: #cddc39 !important;
+  border-color:  #cddc39 !important;
+}
+
+.input-field {
+     color:orange;
+}
